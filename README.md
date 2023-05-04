@@ -3,11 +3,12 @@ FlexiPlanner
 
 ## Planning for the predictably unpredictable
 
-This repo contains the code for the FlexiPlanner shiny app I built to
-help me plan my workload, and set goals. The app creates images which
-can be downloaded and printed out, with the aim of helping users
-visualise how much project time they have left within a given time
-period, or visualise their progress towards a goal.
+This repo contains the code for the [FlexiPlanner Shiny
+App](https://cararthompson.shinyapps.io/flexiplanner/) I built to help
+me plan my workload, and set goals. The app creates images which can be
+downloaded and printed out, with the aim of helping users visualise how
+much project time they have left within a given time period, or
+visualise their progress towards a goal.
 
 ![](demo/shot_230504_093352.png)
 
