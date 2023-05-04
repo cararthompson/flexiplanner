@@ -1,0 +1,13 @@
+name: flexiplanner
+title: flexiplanner
+username:
+account: cararthompson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9020265
+bundleId: 7172786
+url: https://cararthompson.shinyapps.io/flexiplanner/
+when: 1683187734.8334
+lastSyncTime: 1683187734.8334
+asMultiple: FALSE
+asStatic: FALSE
